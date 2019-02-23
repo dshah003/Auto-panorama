@@ -18,7 +18,7 @@ python Wrapper.py --NumFeatures 60
 ```  
 the above command accepts 60 as number of features.  
 
-***Phase 2: The Deep Learning**  
+**Phase 2: The Deep Learning**  
 
 1. Ensure that the training data (MSCOCO) images are in the path as provided for this project.
 2. Run Data_generation.py
